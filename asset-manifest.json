@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/proyecto_alumnos/static/css/main.ce644069.css",
+    "main.js": "/proyecto_alumnos/static/js/main.a551d935.js",
+    "static/media/Adalid Herrera Ruiz_.jpg": "/proyecto_alumnos/static/media/Adalid Herrera Ruiz_.df9b51d7c2842bf53555.jpg",
+    "static/media/Haro.jpg": "/proyecto_alumnos/static/media/Haro.14e2f58c66b221660c0a.jpg",
+    "static/media/dávila.jpeg": "/proyecto_alumnos/static/media/dávila.31a9e9660b5d616d53a6.jpeg",
+    "static/media/damir-bosnjak.jpg": "/proyecto_alumnos/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
+    "static/media/ArturoGarcia.jpeg": "/proyecto_alumnos/static/media/ArturoGarcia.27310183e2a24534bc3e.jpeg",
+    "static/media/JaredFrias.jpg": "/proyecto_alumnos/static/media/JaredFrias.076bc43637bc42431abd.jpg",
+    "static/media/Hector.png": "/proyecto_alumnos/static/media/Hector.6dddee53bc0851eef611.png",
+    "static/media/Castro.jpeg": "/proyecto_alumnos/static/media/Castro.61c2b6aec0856608adcd.jpeg",
+    "static/media/Kennya_prof.jpg": "/proyecto_alumnos/static/media/Kennya_prof.60c18e24d68c0614104d.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/proyecto_alumnos/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/proyecto_alumnos/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
+    "static/media/mike.jpg": "/proyecto_alumnos/static/media/mike.d34d0690a264ad046861.jpg",
+    "static/media/joe-gardner-2.jpg": "/proyecto_alumnos/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/Fernanda_Santillan.jpg": "/proyecto_alumnos/static/media/Fernanda_Santillan.b2cf527f6634c196efcb.jpg",
+    "static/media/Elizalde Barboza Diego Efren.jpeg": "/proyecto_alumnos/static/media/Elizalde Barboza Diego Efren.8a4e419cc0e62ae702e5.jpeg",
+    "static/media/hombre.png": "/proyecto_alumnos/static/media/hombre.2cb823db7cc40aafc1db.png",
+    "static/media/urielgonzalez.jpeg": "/proyecto_alumnos/static/media/urielgonzalez.ab4d17ea09fbf17e8376.jpeg",
+    "static/media/nucleo-icons.eot": "/proyecto_alumnos/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/proyecto_alumnos/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/logo_new_2022.png": "/proyecto_alumnos/static/media/logo_new_2022.c47f1c9a15ec04838ed8.png",
+    "static/media/miguelmoranv.jpg": "/proyecto_alumnos/static/media/miguelmoranv.dc9914d97a38002b8652.jpg",
+    "static/media/nucleo-icons.woff": "/proyecto_alumnos/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/proyecto_alumnos/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/proyecto_alumnos/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ce644069.css",
+    "static/js/main.a551d935.js"
+  ]
+}
